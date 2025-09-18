@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative web applications and AI-driven projects.
 - 📫 You can connect with me on LinkedIn.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 🫵🏻
 
 <!---
 ayushbharne1/ayushbharne1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
