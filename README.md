@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ayushbharne1<br>👀 I’m interested in web development, AI, and open-source projects.<br>🌱 I’m currently learning advanced Node.js, React.<br>💞️ I’m looking to collaborate on innovative web applications and AI-driven projects.<br>📫 You can connect with me on LinkedIn.<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: 🫵🏻
+👋 Hello, I’m @ayushbharne1<br>👀 I’m interested in web development, AI, and open-source projects.<br>🌱 I’m currently learning advanced Node.js, React.<br>💞️ I’m looking to collaborate on innovative web applications and AI-driven projects.<br>📫 You can connect with me on LinkedIn.<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: 🫵🏻
 
 
 ## 🌐 Socials:
